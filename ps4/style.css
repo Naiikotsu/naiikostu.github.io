@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(https://zupimages.net/up/21/51/z16t.png);
+    background: url(base.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -8,7 +8,7 @@
 }
 
 .ds4.disconnected {
-    background: url(base.png);
+    background: url();
 }
 
 .ds4.disconnected div {
