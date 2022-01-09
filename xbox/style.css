@@ -214,7 +214,7 @@
 }
 
 .xbox .face {
-    background: url();
+    background: url(dpad.png);
     position: absolute;
     opacity: 0;
 }
