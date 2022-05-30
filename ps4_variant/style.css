@@ -12,7 +12,7 @@
 }
 
 .ds4.disconnected div {
-    display: none;
+    background: url(base_variant.png);
 }
 
 .ds4 .triggers {
