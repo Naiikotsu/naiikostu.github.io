@@ -1,10 +1,7 @@
-/*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
     background: url(nhs-controller/basemod.png);
     height: 630px;
     width: 750px;
-    /*    margin-left: -375px;
-        margin-top: -285px;*/
 }
 
 .xbox .triggers {
